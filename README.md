@@ -197,7 +197,7 @@ Opcional:
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/Jesusnm21/c5-alerta-ciudadana-distribuido
 cd c5_alert_system22
 ```
 
