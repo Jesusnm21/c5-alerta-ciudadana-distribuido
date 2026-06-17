@@ -1,0 +1,51 @@
+{
+  "MAPEO_IA": {
+    "una emergencia médica grave o riesgo vital": "CRITICO",
+    "un incendio activo, explosión o fuga peligrosa": "CRITICO",
+    "un ataque armado, secuestro o persona en peligro": "CRITICO",
+    "un accidente vehicular o choque fuerte": "ALTO",
+    "un robo, asalto o violencia física": "ALTO",
+    "un problema vecinal, ruido molesto o alteración del orden": "MEDIO",
+    "una solicitud de información, comida o asistencia no urgente": "MEDIO",
+    "una broma, burla, juego o falsa alarma": "MEDIO",
+    "riesgo de muerte": "CRITICO",
+    "fracturas en el cuerpo": "CRITICO",
+    "incendio en casas, propiedades o negocios": "ALTO"
+  },
+  "ETIQUETAS_DE_DESCARTE": [
+    "una broma, burla, juego o falsa alarma, fiesta",
+    "una solicitud de información, comida o asistencia no urgente"
+  ],
+  "GUARDRAILES": {
+    "palabras_criticas": [
+      "auxilio",
+      "ayuda por favor",
+      "me quieren matar",
+      "disparos",
+      "secuestro"
+    ]
+  },
+  "UNIDADES_RESPUESTA": {
+    "Bomberos y Protección Civil": [
+      "incendio",
+      "fuego",
+      "quemando",
+      "humo",
+      "gas"
+    ],
+    "Ambulancia (Cruz Roja/SUEM)": [
+      "médico",
+      "herido",
+      "sangre",
+      "desmayo",
+      "infarto",
+      "ambulancia",
+      "fracturas"
+    ],
+    "Patrulla de Tránsito y Ambulancia": [
+      "choque",
+      "accidente de tránsito",
+      "atropellado"
+    ]
+  }
+}

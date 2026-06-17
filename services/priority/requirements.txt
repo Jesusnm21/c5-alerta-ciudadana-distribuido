@@ -1,0 +1,9 @@
+grpcio>=1.64.0
+grpcio-tools>=1.64.0
+protobuf>=5.26.0
+SQLAlchemy>=2.0.0
+psycopg2-binary>=2.9.9
+transformers>=4.41.0
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+sentencepiece>=0.2.0

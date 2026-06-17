@@ -1,0 +1,21 @@
+// services/geolocation/geolocation.proto
+syntax = "proto3";
+
+package geolocation;
+
+service GeolocationService {
+  rpc ProcessLocation (GeoRequest) returns (GeoResponse) {}
+}
+
+message GeoRequest {
+  float lat = 1;
+  float lon = 2;
+}
+
+message GeoResponse {
+    float lat = 1;
+    float lon = 2;
+    string zona_geografica = 3;
+    string cuadrante = 4;
+    string maps_url = 5; // <-- Debes agregar este campo
+}

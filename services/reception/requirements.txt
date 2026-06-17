@@ -1,0 +1,9 @@
+fastapi==0.104.1
+uvicorn==0.24.0.post1
+redis==5.0.1
+grpcio>=1.64.0
+grpcio-tools>=1.64.0
+protobuf>=5.26.0
+paho-mqtt==1.6.1
+requests==2.31.0
+faster-whisper

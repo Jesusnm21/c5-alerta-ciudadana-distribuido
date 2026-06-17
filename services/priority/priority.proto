@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+package priority;
+
+service PriorityClassifier {
+    rpc ClassifyAlert (AlertRequest) returns (PriorityResponse);
+}
+
+message AlertRequest {
+    string device_id = 1;
+    string emergency_type = 2;
+    string transcription = 3;  // Nuevo campo para el texto del audio
+}
+
+message PriorityResponse {
+    string priority_level = 1;
+    string matched_rule = 2;   // Justificación de la clasificación
+    string response_unit = 3;
+}
