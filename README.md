@@ -380,18 +380,64 @@ Reception Service
 
 ---
 
-## Autores y Equipo
+##  Autores y Equipo de Ingeniería
 
-Desarrollado por:
+Este proyecto fue desarrollado gracias a la colaboración de:
 
-* [Vanesa Hernandez Martinez](https://github.com/VaneHdz04)
-* [Jesus Navarrete Martinez](https://github.com/Jesusnm21?tab=overview&from=2024-03-01&to=2024-03-09)
-* [Rosa Isela Miranda Pérez](https://github.com/ROSY1304)
-* [Sonia Cruz Garcia](https://github.com/Sonia2004)
-* [Fabiola Castañeda Mondragon](https://github.com/FabiolaCastanedaMondragon)
-* [Carlos Alfonso Madrigal Cruz](https://github.com/CarlosMadrigal-hub)
-* [Shania Kinnereth Diaz Moya](https://github.com/ShaniaKinnerethDiazMoya)
-* [Jocelin Reyes Rodriguez](https://github.com/JocelinReyes)
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/VaneHdz04">
+        <img src="https://github.com/VaneHdz04.png" width="100px;" alt="Vanesa Hernandez"/><br />
+        <sub><b>Vanesa Hernandez</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Jesusnm21">
+        <img src="https://github.com/Jesusnm21.png" width="100px;" alt="Jesus Navarrete"/><br />
+        <sub><b>Jesus Navarrete</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ROSY1304">
+        <img src="https://github.com/ROSY1304.png" width="100px;" alt="Rosa Miranda"/><br />
+        <sub><b>Rosa Miranda</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Sonia2004">
+        <img src="https://github.com/Sonia2004.png" width="100px;" alt="Sonia Cruz"/><br />
+        <sub><b>Sonia Cuevas García</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/FabiolaCastanedaMondragon">
+        <img src="https://github.com/FabiolaCastanedaMondragon.png" width="100px;" alt="Fabiola Castañeda"/><br />
+        <sub><b>Fabiola Castañeda</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/CarlosMadrigal-hub">
+        <img src="https://github.com/CarlosMadrigal-hub.png" width="100px;" alt="Carlos Madrigal"/><br />
+        <sub><b>Carlos Madrigal</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ShaniaKinnerethDiazMoya">
+        <img src="https://github.com/ShaniaKinnerethDiazMoya.png" width="100px;" alt="Shania Diaz"/><br />
+        <sub><b>Shania Diaz</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JocelinReyes">
+        <img src="https://github.com/JocelinReyes.png" width="100px;" alt="Jocelin Reyes"/><br />
+        <sub><b>Jocelin Reyes</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
